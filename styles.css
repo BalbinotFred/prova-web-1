@@ -1,0 +1,25 @@
+body {
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  h1 {
+    color: #005f99;
+  }
+  a {
+    color: #ff6600;
+  }
+  header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #005f99;
+  }
+  nav a:hover {
+    color: #ff6600;
+    text-decoration: underline;
+  }
+  form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+  }
